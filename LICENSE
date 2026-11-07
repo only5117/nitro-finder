@@ -1,21 +1,47 @@
-MIT License
+⚖️ License & Copyright
 
-Copyright (c) 2026 only5117
+Copyright © 2026 only5117. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Ownership
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- GitHub Owner: only5117
+- Discord Username: only_5117
+- Project Name: Nitro Finder
+
+Permissions
+
+Under the AGPL-3.0 license, users may:
+
+- Use the software.
+- Study its source code.
+- Modify the source code.
+- Share original and modified versions.
+- Distribute their modifications under the license terms.
+
+Conditions
+
+Users must:
+
+- Preserve copyright notices.
+- Include a copy of the AGPL-3.0 license.
+- Make modified source code available under the applicable license terms.
+- Follow the AGPL network-use requirements.
+- Clearly document significant modifications.
+
+Disclaimer
+
+This software is provided "AS IS", without warranties of any kind.
+
+The author is not responsible for misuse, damages, violations of third-party terms, or consequences resulting from use of this software.
+
+Trademarks
+
+Discord, Nitro, and related trademarks belong to their respective owners. This project is not affiliated with, endorsed by, or sponsored by Discord Inc.
+
+Third-Party Services
+
+Users are responsible for complying with the terms, policies, and applicable laws governing any third-party services they interact with.
+
+For the complete legal terms, refer to the official GNU AGPL-3.0 license.
